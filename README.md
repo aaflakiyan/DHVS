@@ -11,6 +11,10 @@ The zip file contains visp_ros and vision_visp ros nodes based on the VISP libra
 3. Catkin_make.
 
 ## Usage 
+To run the code on: 
+```
+rosrun vs_code vs_camera 
+```
 The package produces Cartesian velocity commands through three distinct topics, supporting various visual servoing methods, including:
 IBVS: "IBVS/command"
 PBVS: "PBVS/command"
