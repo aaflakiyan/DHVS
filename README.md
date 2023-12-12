@@ -1,5 +1,5 @@
 # DHVS + Tracker
- This repository contains an implementation of visual servoing designed for compatibility with diverse robot types. Moreover, the tracker package is implemented to track modules and bolts.
+ This repository contains an implementation of visual servoing designed for compatibility with diverse robot types through ROS. Moreover, the tracker package is implemented to track modules and bolts.
 
 ![agilus](https://github.com/aaflakiyan/HDVS/assets/48828461/d63e1d04-7f5c-4fc8-a9a7-5cfc2962b8d4)
 
