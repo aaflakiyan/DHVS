@@ -8,7 +8,7 @@
 1. Clone this repository to the `src` folder of your ros workspace. 
 2. Unzip the visp_ros.zip file inside this repository to your src folder in your ros workspace. 
 The zip file contains visp_ros and vision_visp ros nodes based on the VISP library [GitHub Pages](https://github.com/lagadic).
-3. clone the realsense camera ros package (in case of using RealSense camera series):
+3. Clone the realsense camera ros package (in case of using RealSense camera series):
 ```
 git clone https://github.com/IntelRealSense/realsense-ros.git -b ros1-legacy
 ```
